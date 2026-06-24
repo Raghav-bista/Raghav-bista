@@ -1,11 +1,98 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Raghav Bista-Professional Portfolio</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Raghav Bista | Portfolio</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    
+
+  <!-- Navbar -->
+  <nav>
+    <h2>Raghav Bista</h2>
+    <ul>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#skills">Skills</a></li>
+      <li><a href="#portfolio">Portfolio</a></li>
+      <li><a href="#services">Services</a></li>
+      <li><a href="#education">Education</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <!-- Hero -->
+  <section class="hero" id="home">
+    <h1>Hi, I'm Raghav Bista</h1>
+    <p>Web Developer & Bachelor's Student from Nepal</p>
+    <p>Passionate web developer focused on creating modern, responsive, and user-friendly websites. Currently pursuing a Bachelor's degree in Nepal while continuously improving my development skills.</p>
+    <div class="buttons">
+      <button class="btn">View Portfolio</button>
+      <button class="btn">Download CV</button>
+      <button class="btn">Contact Me</button>
+    </div>
+  </section>
+
+  <!-- Stats -->
+  <section id="stats">
+    <h2>My Statistics</h2>
+    <div class="stats">
+      <div class="glass"><h2 id="projects">0</h2><p>Projects Completed</p></div>
+      <div class="glass"><h2 id="years">0</h2><p>Years Learning</p></div>
+      <div class="glass"><h2 id="tech">0</h2><p>Technologies Mastered</p></div>
+      <div class="glass"><h2 id="dedication">0%</h2><p>Dedication</p></div>
+    </div>
+  </section>
+
+  <!-- Skills -->
+  <section id="skills">
+    <h2>Skills</h2>
+    <div class="skills">
+      <div class="skill">HTML5<div class="progress"><div style="width:90%"></div></div></div>
+      <div class="skill">CSS3<div class="progress"><div style="width:85%"></div></div></div>
+      <div class="skill">JavaScript<div class="progress"><div style="width:80%"></div></div></div>
+      <div class="skill">React<div class="progress"><div style="width:75%"></div></div></div>
+      <div class="skill">Python<div class="progress"><div style="width:70%"></div></div></div>
+      <div class="skill">Git & GitHub<div class="progress"><div style="width:80%"></div></div></div>
+      <div class="skill">Responsive Design<div class="progress"><div style="width:85%"></div></div></div>
+      <div class="skill">UI/UX Design<div class="progress"><div style="width:75%"></div></div></div>
+    </div>
+  </section>
+
+  <!-- Portfolio -->
+  <section id="portfolio">
+    <h2>Portfolio</h2>
+    <div class="portfolio-grid">
+      <div class="card"><h3>Personal Portfolio Website</h3><p>Built with HTML, CSS, JS</p></div>
+      <div class="card"><h3>E-Commerce Website</h3><p>Responsive frontend with cart</p></div>
+      <div class="card"><h3>Student Management System</h3><p>CRUD operations with JS</p></div>
+      <div class="card"><h3>Blog Platform</h3><p>Modern UI blog layout</p></div>
+      <div class="card"><h3>Weather App</h3><p>API integration</p></div>
+      <div class="card"><h3>Task Manager App</h3><p>Interactive task board</p></div>
+    </div>
+  </section>
+
+  <!-- Contact -->
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <p>Location: Nepal</p>
+    <p>Email: raghav@example.com</p>
+    <p>Phone: +977-XXXXXXXXXX</p>
+    <form class="glass">
+      <input type="text" placeholder="Name" required><br><br>
+      <input type="email" placeholder="Email" required><br><br>
+      <input type="text" placeholder="Subject"><br><br>
+      <textarea placeholder="Message" rows="5"></textarea><br><br>
+      <button class="btn" type="submit">Submit</button>
+    </form>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>© 2026 Raghav Bista | GitHub | LinkedIn | Facebook</p>
+  </footer>
+
+  <script src="script.js"></script>
 </body>
 </html>
