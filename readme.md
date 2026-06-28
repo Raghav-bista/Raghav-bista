@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/RaghavBista/RaghavBista/blob/main/banner.png" alt="Raghav Bista Portfolio Banner" width="100%" />
+  <img src="https://" alt="Raghav Bista Portfolio Banner" width="100%" />
 </p>
 
 # Hey there! 👋 I'm Raghav Bista
