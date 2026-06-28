@@ -25,3 +25,11 @@
 | **Tools & Cloud** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
+### 🔥 Interests & Vibes
+
+- 🎧 Coding with chill beats and lo‑fi vibes  
+- 🎮 Gaming for creativity and problem‑solving  
+- 📚 Constantly exploring new frameworks and cloud tools  
+- 🧠 Learning hungry — always chasing the next skill upgrade  
+
+---
