@@ -33,3 +33,10 @@
 - 🧠 Learning hungry — always chasing the next skill upgrade  
 
 ---
+### 🔨 Featured Projects
+
+- **Portfolio Website** – Modern dark‑theme design with animations and responsive layout. [Live Demo](#) | [Repo](#)  
+- **Task Manager App** – MERN stack with JWT authentication and cloud deployment. [Live Demo](#) | [Repo](#)  
+- **AWS‑Powered Blog Platform** – Serverless architecture using Lambda and DynamoDB. [Live Demo](#) | [Repo](#)  
+
+---
